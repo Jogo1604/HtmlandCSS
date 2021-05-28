@@ -67,7 +67,7 @@ h1 {
     text-indent: 50px;
     font-size: 150%;
   }
-  @media only screen and (max-width: 650px) {
+  @media only screen and (max-width: 655px) {
     body > nav {
         background: black  !important;
         width: 100%;
